@@ -1,4 +1,4 @@
-Este projeto foi desenvolvido a partir de m exercício para aperfeiçoamento da utilização de javascrip nas aulas iniciais de programação web.
+Este projeto foi desenvolvido a partir de um exercício para aperfeiçoamento da utilização de javascrip nas aulas iniciais de programação web.
 
 Este jogo é um jogo da velha um pouco diferente.
 
