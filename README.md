@@ -10,7 +10,7 @@ O objetivo é ganhar os tabuleiros menores para poder ganhar o tabuleiro maior, 
 
 
 _______________________________________________________________________________
-
+url: https://jogodavelha2.zcodigo.com.br/
 O jogo ainda está sendo aprimorado e ainda precisa de alguns ajustes, além do desenvovimento de um design mais bonito e responsivo.
 
 ✌
